@@ -1,2 +1,4 @@
 .dockerfiles
 /*.iml
+.DS_Store
+.env
